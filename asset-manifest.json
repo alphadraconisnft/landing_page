@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87884504.chunk.css",
+    "main.js": "/static/js/main.bfd22241.chunk.js",
+    "main.js.map": "/static/js/main.bfd22241.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7c121044.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7c121044.js.map",
+    "static/css/2.8fabdb4f.chunk.css": "/static/css/2.8fabdb4f.chunk.css",
+    "static/js/2.5ada8b8f.chunk.js": "/static/js/2.5ada8b8f.chunk.js",
+    "static/js/2.5ada8b8f.chunk.js.map": "/static/js/2.5ada8b8f.chunk.js.map",
+    "static/js/3.8fce8748.chunk.js": "/static/js/3.8fce8748.chunk.js",
+    "static/js/3.8fce8748.chunk.js.map": "/static/js/3.8fce8748.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.8fabdb4f.chunk.css.map": "/static/css/2.8fabdb4f.chunk.css.map",
+    "static/css/main.87884504.chunk.css.map": "/static/css/main.87884504.chunk.css.map",
+    "static/js/2.5ada8b8f.chunk.js.LICENSE.txt": "/static/js/2.5ada8b8f.chunk.js.LICENSE.txt",
+    "static/media/discord.36a05312.svg": "/static/media/discord.36a05312.svg",
+    "static/media/trees.69aba6e3.jpg": "/static/media/trees.69aba6e3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c121044.js",
+    "static/css/2.8fabdb4f.chunk.css",
+    "static/js/2.5ada8b8f.chunk.js",
+    "static/css/main.87884504.chunk.css",
+    "static/js/main.bfd22241.chunk.js"
+  ]
+}
