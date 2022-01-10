@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.64a855ff.chunk.css",
-    "main.js": "/static/js/main.7ace9152.chunk.js",
-    "main.js.map": "/static/js/main.7ace9152.chunk.js.map",
+    "main.js": "/static/js/main.3b5c5fc3.chunk.js",
+    "main.js.map": "/static/js/main.3b5c5fc3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b14c0229.js",
     "runtime-main.js.map": "/static/js/runtime-main.b14c0229.js.map",
     "static/css/2.8fabdb4f.chunk.css": "/static/css/2.8fabdb4f.chunk.css",
-    "static/js/2.50c69a06.chunk.js": "/static/js/2.50c69a06.chunk.js",
-    "static/js/2.50c69a06.chunk.js.map": "/static/js/2.50c69a06.chunk.js.map",
+    "static/js/2.dd730bd6.chunk.js": "/static/js/2.dd730bd6.chunk.js",
+    "static/js/2.dd730bd6.chunk.js.map": "/static/js/2.dd730bd6.chunk.js.map",
     "static/js/3.f7b976ef.chunk.js": "/static/js/3.f7b976ef.chunk.js",
     "static/js/3.f7b976ef.chunk.js.map": "/static/js/3.f7b976ef.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.8fabdb4f.chunk.css.map": "/static/css/2.8fabdb4f.chunk.css.map",
     "static/css/main.64a855ff.chunk.css.map": "/static/css/main.64a855ff.chunk.css.map",
-    "static/js/2.50c69a06.chunk.js.LICENSE.txt": "/static/js/2.50c69a06.chunk.js.LICENSE.txt",
+    "static/js/2.dd730bd6.chunk.js.LICENSE.txt": "/static/js/2.dd730bd6.chunk.js.LICENSE.txt",
     "static/media/11.cf86c6b7.png": "/static/media/11.cf86c6b7.png",
     "static/media/1151.305cb8d4.png": "/static/media/1151.305cb8d4.png",
     "static/media/1180.e4d5c7e4.png": "/static/media/1180.e4d5c7e4.png",
@@ -27,17 +27,20 @@
     "static/media/3823.0688fa3f.png": "/static/media/3823.0688fa3f.png",
     "static/media/900.e289c26f.png": "/static/media/900.e289c26f.png",
     "static/media/97.876d788c.png": "/static/media/97.876d788c.png",
+    "static/media/background.ee3dbe2d.jpg": "/static/media/background.ee3dbe2d.jpg",
     "static/media/compiled.2529622e.gif": "/static/media/compiled.2529622e.gif",
     "static/media/discord.36a05312.svg": "/static/media/discord.36a05312.svg",
     "static/media/dragon_1.d0973a79.png": "/static/media/dragon_1.d0973a79.png",
     "static/media/dragon_2.ece6c892.png": "/static/media/dragon_2.ece6c892.png",
+    "static/media/dragon_bg2.fb648c1c.jpg": "/static/media/dragon_bg2.fb648c1c.jpg",
+    "static/media/dragon_bg3.3a43882a.jpg": "/static/media/dragon_bg3.3a43882a.jpg",
     "static/media/trees.69aba6e3.jpg": "/static/media/trees.69aba6e3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b14c0229.js",
     "static/css/2.8fabdb4f.chunk.css",
-    "static/js/2.50c69a06.chunk.js",
+    "static/js/2.dd730bd6.chunk.js",
     "static/css/main.64a855ff.chunk.css",
-    "static/js/main.7ace9152.chunk.js"
+    "static/js/main.3b5c5fc3.chunk.js"
   ]
 }
